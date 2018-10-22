@@ -73,11 +73,7 @@ border {
 .button-group {
   margin-bottom: 20px;
 }
-.counter {
-  display: inline;
 
-  margin-right: 10px;
-}
 .posts {
   clear: both;
   list-style: none;
